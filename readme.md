@@ -8,7 +8,7 @@ The github control version is used to follow any changes.
 
 ## Interactive Overview
 
-https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/dashboard_presentation.mp4
+https://github.com/user-attachments/assets/1d307a49-7292-4cf9-89a9-5dd37b556426
 
 ## General Overview with Regions Comparison
 
