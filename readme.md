@@ -8,7 +8,7 @@ The github control version is used to follow any changes.
 
 ## Interactive Overview
 
-https://github.com/user-attachments/assets/a0b050dd-de96-461b-8b8a-e0f535ff2579
+https://github.com/user-attachments/assets/a4ed1813-67c9-4076-aeaf-8f5bef644584
 
 ## General Overview with Regions Comparison
 
