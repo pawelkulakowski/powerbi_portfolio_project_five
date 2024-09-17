@@ -4,7 +4,11 @@ The dashboard presenting sales for the current month provides a comprehensive ov
 
 Regularly reviewing this dashboard each month is crucial for staying on top of sales performance, setting realistic targets, and making informed decisions. It enables management to monitor progress, allocate resources efficiently, and ensure that the team is on track to meet overall business goals.
 
-Project in Development. The github control version is used to follow any changes.
+The github control version is used to follow any changes.
+
+## Interactive Overview
+
+https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/dashboard_presentation.mp4
 
 ## General Overview with Regions Comparison
 
